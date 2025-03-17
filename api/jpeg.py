@@ -50,7 +50,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://www.roblox.com/de/games/18668065416/UPD-Blue-Lock-Rivals" # Link to the webpage to redirect to 
+        "page": "https://giphy.com/gifs/nick-young-xL7PDV9frcudO" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.

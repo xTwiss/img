@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://discord.gift/ABCD1234EFGH" # Link to the webpage to redirect to 
+        "page": "https://discord.gg/blurredd" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
